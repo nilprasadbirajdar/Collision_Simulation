@@ -8,7 +8,7 @@ The tests focus on verifying the functionality and behavior of the `Collision Si
  
 ## 2. Test location
 The test cases are organized using Google Test framework. Test files are structured as follows:
-- All the Test Cases are available at this location [Test Suite Location](https://github.com/nilprasadbirajdar/Collision_Simulation/new/main/FirstTest/src)
+- All the Test Cases are available at this location [Test Suite Location](https://github.com/nilprasadbirajdar/Collision_Simulation/tree/main/FirstTest/src)
  
 ## 3. Steps to Integrate Testing Tool (Google Test)
  
